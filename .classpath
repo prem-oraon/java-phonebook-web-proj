@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/Lib Jars/javax.faces-2.1.19-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/Lib Jars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/Lib Jars/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/Lib Jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/Lib Jars/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/Lib Jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/javax.servlet.jar/javax.servlet.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/jsp.jar/jsp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/servlet-api-2.5.jar/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prem5/Downloads/com.springsource.javax.servlet.jsp.jstl-sources-1.2.0.jar/com.springsource.javax.servlet.jsp.jstl-sources-1.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
